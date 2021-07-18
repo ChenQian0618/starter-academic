@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Mechanical Engineering
+  - course: PhD candidate in Mechanical Engineering
     institution: Shanghai Jiaotong University
     year: now
   - course: BSc in Mechatronic
@@ -69,4 +69,4 @@ highlight_name: false
 
 Chen Qian is an PhD candidate of mechanical engineering at Shanghai Jiaotong University. His interests include vibration signal decomposition, fault diagnosis of mechanical system, artificial intelligence.
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
