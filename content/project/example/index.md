@@ -1,8 +1,8 @@
 ---
-title: load measurement of pipes
+title: Load Estimation of Pipeline with flow.
 summary: An strain gauge based method for estimating external load of pipeline with flow
 tags:
-- Deep Learning
+- load
 date: "2020-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-An strain gauge based method for estimating external load of pipeline with flows.
+An strain gauge based method for estimating external load of pipeline with flow.
