@@ -20,7 +20,7 @@ bio: My research interests include signal decomposition, mechanical fault diagno
 interests:
 - Artificial Intelligence
 - signal decomposition
-- mechanical fault diagnosis
+- fault diagnosis of mechanical system
 
 # Education to show in About widget
 education:
