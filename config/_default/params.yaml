@@ -32,12 +32,12 @@ address:
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: 800 Dongchuan RD. Minhang District, Shanghai, China
+directions: School of Mechanical Engineering
 
 # Site header
 
 main_menu:
-  enable: true
+  enable: false
   align: l
   show_logo: true
   show_language: false
