@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://http://www.hit.edu.cn/
+- certificate_url: http://www.hit.edu.cn/
   date_end: ""
   date_start: "2020-06-01"
   description: ""
   organization: HIT
-  organization_url: https://http://www.hit.edu.cn/
+  organization_url: http://www.hit.edu.cn/
   title: Outstanding graduates
-  url: https://http://www.hit.edu.cn/
+  url: http://www.hit.edu.cn/
 design:
   columns: '2' 
 ---
